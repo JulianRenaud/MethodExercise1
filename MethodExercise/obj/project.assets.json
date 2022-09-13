@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pearl-Laptop\\Desktop\\Repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
-      "projectName": "MethodExercise",
-      "projectPath": "C:\\Users\\Pearl-Laptop\\Desktop\\Repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Pearl-Laptop\\Desktop\\Repos\\MethodExercise\\MethodExercise\\MethodExercise1.csproj",
+      "projectName": "MethodExercise1",
+      "projectPath": "C:\\Users\\Pearl-Laptop\\Desktop\\Repos\\MethodExercise\\MethodExercise\\MethodExercise1.csproj",
       "packagesPath": "C:\\Users\\Pearl-Laptop\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pearl-Laptop\\Desktop\\Repos\\MethodExercise\\MethodExercise\\obj\\",
       "projectStyle": "PackageReference",
